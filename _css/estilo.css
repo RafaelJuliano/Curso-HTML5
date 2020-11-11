@@ -248,3 +248,7 @@ footer#rodape a {
 footer#rodape a:hover {
     text-decoration: underline;
 }
+
+iframe {
+    overflow: hidden;
+}
